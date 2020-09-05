@@ -1,4 +1,4 @@
-### create for test
+### create for jenking create docker container in dockerhost
 FROM centos:latest
 MAINTAINER niraj.vara@gmail.com
 RUN yum install -y httpd zip unzip
