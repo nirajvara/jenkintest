@@ -1,3 +1,4 @@
+### create for test
 FROM centos:latest
 MAINTAINER niraj.vara@gmail.com
 RUN yum install -y httpd zip unzip
